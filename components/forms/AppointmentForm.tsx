@@ -190,7 +190,7 @@ export const AppointmentForm = ({
                 fieldType={FormFieldType.TEXTAREA}
                 control={form.control}
                 name="note"
-                label="Comments/notes"
+                label="Notes"
                 placeholder="Prefer afternoon appointments, if possible"
                 // disabled={type === "schedule"}
               />
